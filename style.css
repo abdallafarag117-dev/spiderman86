@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+    list-style-position: inside;
+    background-color: navy;
+    color: red;
+}
+
+img {
+    width: 300px;
+}
+
+hr {
+    width: 200px;
+}
